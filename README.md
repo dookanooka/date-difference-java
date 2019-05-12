@@ -31,7 +31,7 @@ The three files must be in the same directory
 
 ## Built With
 
-* Using Jave 11.0.2
+* Using Java 11.0.2
 
 ## Author
 
